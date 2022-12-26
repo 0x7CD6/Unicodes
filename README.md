@@ -2,58 +2,57 @@
 
 
 
-## Box Drawing
-| Unicode |    |    |    |    | Unicode |    |    |    |    | Unicode |    |    |    |    | Unicode |    |    |    |    | Unicode |    |    |    |    | Unicode |    |    |    |    | Unicode |    |    |    |    | Unicode |    |    |    |    | Unicode |    |    |    |    | Unicode |
-| ------- | -- | -- | -- | -- | ------- | -- | -- | -- | -- | ------- | -- | -- | -- | -- | ------- | -- | -- | -- | -- | ------- | -- | -- | -- | -- | ------- | -- | -- | -- | -- | ------- | -- | -- | -- | -- | ------- | -- | -- | -- | -- | ------- | -- | -- | -- | -- | ------- |
-|    ─    |    |    |    |    |    ━    |    |    |    |    |    │    |    |    |    |    |    ┃    |    |    |    |    |    ┄    |    |    |    |    |    ┅    |    ┆    |    |    |    |    |    |    |    |    |    ┇    |    |    |    |    |    ┈    |    |    |    |    |    ┉    | 
-|    ┊    |    |    |    |    |    ┋    |    |    |    |    |    ┌    |    |    |    |    |    ┍    |    |    |    |    |    ┎    |    |    |    |    |    ┏    |    |    |    |    |    ┐    |    |    |    |    |    ┑    |    |    |    |    |    ┒    |    |    |    |    |    ┓    |
-|    └    |    |    |    |    |    ┕    |    |    |    |    |    ┖    |    |    |    |    |    ┗    |    |    |    |    |    ┘    |    |    |    |    |    ┙    |    |    |    |    |    ┚    |    |    |    |    |    ┛    |    |    |    |    |    ├    |    |    |    |    |    ┝    |
-|    ┞    |    |    |    |    |    ┟    |    |    |    |    |    ┠    |    |    |    |    |    ┡    |    |    |    |    |    ┢    |    |    |    |    |    ┣    |    |    |    |    |    ┤    |    |    |    |    |    ┥    |    |    |    |    |    ┦    |    |    |    |    |    ┧    |
-|    ┨    |    |    |    |    |    ┩    |    |    |    |    |    ┪    |    |    |    |    |    ┫    |    |    |    |    |    ┬    |    |    |    |    |    ┭    |    |    |    |    |    ┮    |    |    |    |    |    ┯    |    |    |    |    |    ┰    |    |    |    |    |    ┱    |
-|    ┲    |    |    |    |    |    ┳    |    |    |    |    |    ┴    |    |    |    |    |    ┵    |    |    |    |    |    ┶    |    |    |    |    |    ┷    |    |    |    |    |    ┸    |    |    |    |    |    ┹    |    |    |    |    |    ┺    |    |    |    |    |    ┻    |
-|    ┼    |    |    |    |    |    ┽    |    |    |    |    |    ┾    |    |    |    |    |    ┿    |    |    |    |    |    ╀    |    |    |    |    |    ╁    |    |    |    |    |    ╂    |    |    |    |    |    ╃    |    |    |    |    |    ╄    |    |    |    |    |    ╅    |
-|    ╆    |    |    |    |    |    ╇    |    |    |    |    |    ╈    |    |    |    |    |    ╉    |    |    |    |    |    ╊    |    |    |    |    |    ╋    |    |    |    |    |    ╌    |    |    |    |    |    ╍    |    |    |    |    |    ╎    |    |    |    |    |    ╏    |
-|    ═    |    |    |    |    |    ║    |    |    |    |    |    ╒    |    |    |    |    |    ╓    |    |    |    |    |    ╔    |    |    |    |    |    ╕    |    |    |    |    |    ╖    |    |    |    |    |    ╗    |    |    |    |    |    ╘    |    |    |    |    |    ╙    |
-|    ╚    |    |    |    |    |    ╛    |    |    |    |    |    ╜    |    |    |    |    |    ╝    |    |    |    |    |    ╞    |    |    |    |    |    ╟    |    |    |    |    |    ╠    |    |    |    |    |    ╡    |    |    |    |    |    ╢    |    |    |    |    |    ╣    |
-|    ╤    |    |    |    |    |    ╥    |    |    |    |    |    ╦    |    |    |    |    |    ╧    |    |    |    |    |    ╨    |    |    |    |    |    ╩    |    |    |    |    |    ╪    |    |    |    |    |    ╫    |    |    |    |    |    ╬    |    |    |    |    |    ╭    |
-|    ╮    |    |    |    |    |    ╯    |    |    |    |    |    ╰    |    |    |    |    |    ╱    |    |    |    |    |    ╲    |    |    |    |    |    ╳    |    |    |    |    |    ╴    |    |    |    |    |    ╵    |    |    |    |    |    ╶    |    |    |    |    |    ╷    |
-|    ╸    |    |    |    |    |    ╹    |    |    |    |    |    ╺    |    |    |    |    |    ╻    |    |    |    |    |    ╼    |    |    |    |    |    ╽    |    |    |    |    |    ╾    |    |    |    |    |    ╿    |
-
-
-
-
-
-
-
-<!-- Let's put 20 per line now -->
-## Box Drawing
-| Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode | Unicode |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | 
-|    ─    |    ━    |    │    |    ┃    |    ┄    |    ┅    |    ┆    |    ┇    |    ┈    |    ┉    |    ┊    |    ┋    |    ┌    |    ┍    |    ┎    |    ┏    |    ┐    |    ┑    |    ┒    |    ┓    |
-|    └    |    ┕    |    ┖    |    ┗    |    ┘    |    ┙    |    ┚    |    ┛    |    ├    |    ┝    |    ┞    |    ┟    |    ┠    |    ┡    |    ┢    |    ┣    |    ┤    |    ┥    |    ┦    |    ┧    |
-|    ┨    |    ┩    |    ┪    |    ┫    |    ┬    |    ┭    |    ┮    |    ┯    |    ┰    |    ┱    |    ┲    |    ┳    |    ┴    |    ┵    |    ┶    |    ┷    |    ┸    |    ┹    |    ┺    |    ┻    |
-|    ┼    |    ┽    |    ┾    |    ┿    |    ╀    |    ╁    |    ╂    |    ╃    |    ╄    |    ╅    |    ╆    |    ╇    |    ╈    |    ╉    |    ╊    |    ╋    |    ╌    |    ╍    |    ╎    |    ╏    |
-|    ═    |    ║    |    ╒    |    ╓    |    ╔    |    ╕    |    ╖    |    ╗    |    ╘    |    ╙    |    ╚    |    ╛    |    ╜    |    ╝    |    ╞    |    ╟    |    ╠    |    ╡    |    ╢    |    ╣    |
-|    ╤    |    ╥    |    ╦    |    ╧    |    ╨    |    ╩    |    ╪    |    ╫    |    ╬    |    ╭    |    ╮    |    ╯    |    ╰    |    ╱    |    ╲    |    ╳    |    ╴    |    ╵    |    ╶    |    ╷    |
-|    ╸    |    ╹    |    ╺    |    ╻    |    ╼    |    ╽    |    ╾    |    ╿    |
-
-<!-- Let's try 25 -->
-## Box Drawing
+## Box Drawing Characters
 |    ─    |    ━    |    │    |    ┃    |    ┄    |    ┅    |    ┆    |    ┇    |    ┈    |    ┉    |    ┊    |    ┋    |    ┌    |    ┍    |    ┎    |    ┏    |    ┐    |    ┑    |    ┒    |    ┓    |    └    |    ┕    |    ┖    |    ┗    |    ┘    |
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 |    ┙    |    ┚    |    ┛    |    ├    |    ┝    |    ┞    |    ┟    |    ┠    |    ┡    |    ┢    |    ┣    |    ┤    |    ┥    |    ┦    |    ┧    |    ┨    |    ┩    |    ┪    |    ┫    |    ┬    |    ┭    |    ┮    |    ┯    |    ┰    |    ┱    |
 |    ┲    |    ┳    |    ┴    |    ┵    |    ┶    |    ┷    |    ┸    |    ┹    |    ┺    |    ┻    |    ┼    |    ┽    |    ┾    |    ┿    |    ╀    |    ╁    |    ╂    |    ╃    |    ╄    |    ╅    |    ╆    |    ╇    |    ╈    |    ╉    |    ╊    |
 |    ╋    |    ╌    |    ╍    |    ╎    |    ╏    |    ═    |    ║    |    ╒    |    ╓    |    ╔    |    ╕    |    ╖    |    ╗    |    ╘    |    ╙    |    ╚    |    ╛    |    ╜    |    ╝    |    ╞    |    ╟    |    ╠    |    ╡    |    ╢    |    ╣    |
 |    ╤    |    ╥    |    ╦    |    ╧    |    ╨    |    ╩    |    ╪    |    ╫    |    ╬    |    ╭    |    ╮    |    ╯    |    ╰    |    ╱    |    ╲    |    ╳    |    ╴    |    ╵    |    ╶    |    ╷    |    ╸    |    ╹    |    ╺    |    ╻    |    ╼    |
-|    ╽    |    ╾    |    ╿    | 
+|    ╽    |    ╾    |    ╿    |<br><br><br>
 
 
-<!-- Let's do 26 per line -->
-## Box Drawing
+|           Vertical-Only           |           Horizontal-Only           |
+| --------------------------------- | ----------------------------------- |
+|    <div align="center">│</div>    |     <div align="center">─</div>     |
+|    <div align="center">┃</div>    |     <div align="center">━</div>     |
+|    <div align="center">┆</div>    |     <div align="center">┄</div>     |
+|    <div align="center">┊</div>    |     <div align="center">┅</div>     |
+|    <div align="center">┋</div>    |     <div align="center">┉</div>     |
+|    <div align="center">╎</div>    |     <div align="center">┈</div>     |
+|    <div align="center">╏</div>    |     <div align="center">╌</div>     |
+|    <div align="center">╵</div>    |     <div align="center">╍</div>     |
+|    <div align="center">╷</div>    |     <div align="center">╴</div>     |
+|    <div align="center">╹</div>    |     <div align="center">╶</div>     |
+|    <div align="center">╻</div>    |     <div align="center">╸</div>     |
+|                                   |     <div align="center">╺</div>     |<br><br><br>
 
-|    ─    |    ━    |    │    |    ┃    |    ┄    |    ┅    |    ┆    |    ┇    |    ┈    |    ┉    |    ┊    |    ┋    |    ┌    |    ┍    |    ┎    |    ┏    |    ┐    |    ┑    |    ┒    |    ┓    |    └    |    ┕    |    ┖    |    ┗    |    ┘    |    ┙    |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-|    ┚    |    ┛    |    ├    |    ┝    |    ┞    |    ┟    |    ┠    |    ┡    |    ┢    |    ┣    |    ┤    |    ┥    |    ┦    |    ┧    |    ┨    |    ┩    |    ┪    |    ┫    |    ┬    |    ┭    |    ┮    |    ┯    |    ┰    |    ┱    |    ┲    |    ┳    |
-|    ┴    |    ┵    |    ┶    |    ┷    |    ┸    |    ┹    |    ┺    |    ┻    |    ┼    |    ┽    |    ┾    |    ┿    |    ╀    |    ╁    |    ╂    |    ╃    |    ╄    |    ╅    |    ╆    |    ╇    |    ╈    |    ╉    |    ╊    |    ╋    |    ╌    |    ╍    |
-|    ╎    |    ╏    |    ═    |    ║    |    ╒    |    ╓    |    ╔    |    ╕    |    ╖    |    ╗    |    ╘    |    ╙    |    ╚    |    ╛    |    ╜    |    ╝    |    ╞    |    ╟    |    ╠    |    ╡    |    ╢    |    ╣    |    ╤    |    ╥    |    ╦    |    ╧    |
-|    ╨    |    ╩    |    ╪    |    ╫    |    ╬    |    ╭    |    ╮    |    ╯    |    ╰    |    ╱    |    ╲    |    ╳    |    ╴    |    ╵    |    ╶    |    ╷    |    ╸    |    ╹    |    ╺    |    ╻    |    ╼    |    ╽    |    ╾    |    ╿    |
+|                             |                             |                             |          Connectors         |                             |                             |                             |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| <div align="center">┌</div> | <div align="center">┬</div> | <div align="center">┐</div> |                             | <div align="center">┍</div> | <div align="center">┯</div> | <div align="center">┑</div> |
+| <div align="center">├</div> | <div align="center"> </div> | <div align="center">┤</div> |                             | <div align="center">┝</div> | <div align="center"> </div> | <div align="center">┥</div> |
+| <div align="center">└</div> | <div align="center">┴</div> | <div align="center">┘</div> |                             | <div align="center">┕</div> | <div align="center">┷</div> | <div align="center">┙</div> |
+|                             |                             |                             |                             |                             |                             |                             |
+| <div align="center">┎</div> | <div align="center">┰</div> | <div align="center">┒</div> |                             | <div align="center">┏</div> | <div align="center">┳</div> | <div align="center">┓</div> |
+| <div align="center">┠</div> | <div align="center"> </div> | <div align="center">┫</div> |                             | <div align="center">┡</div> | <div align="center"> </div> | <div align="center">┫</div> |
+| <div align="center">┖</div> | <div align="center">┷</div> | <div align="center">┚</div> |                             | <div align="center">┗</div> | <div align="center">┷</div> | <div align="center">┛</div> |
+ 
+ 
+
+|         Left Corner         |        Right Corner.        |         Left Corner         |        Right Corner.        |         Left Corner         |        Right Corner.        |         Left Corner         |        Right Corner.        |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| <div align="center">┌</div> | <div align="center">┐</div> | <div align="center">┍</div> | <div align="center">┑</div> | <div align="center">┎</div> | <div align="center">┒</div> | <div align="center">┏</div> | <div align="center">┓</div> |
+| <div align="center">└</div> | <div align="center">┘</div> | <div align="center">┕</div> | <div align="center">┙</div> | <div align="center">┖</div> | <div align="center">┚</div> | <div align="center">┗</div> | <div align="center">┛</div> |
+| <div align="center">╭</div> | <div align="center">╮</div> | <div align="center">╒</div> | <div align="center">╕</div> | <div align="center">╓</div> | <div align="center">╖</div> | <div align="center">╔</div> | <div align="center">╗</div> |
+| <div align="center">╰</div> | <div align="center">╯</div> | <div align="center">╘</div> | <div align="center">╛</div> | <div align="center">╙</div> | <div align="center">╜</div> | <div align="center">╚</div> | <div align="center">╝</div> |<br><br><br>
+
+<!-- Total Characters Used out of 128: 55 -->
+
+|                             |                             |                             |           Crosses           |                             |                             |                             |                             |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| <div align="center">┼</div> | <div align="center">┽</div> | <div align="center">┾</div> | <div align="center">┿</div> | <div align="center">╀</div> | <div align="center">╁</div> | <div align="center">╂</div> | <div align="center">╃</div> |
+| <div align="center">╄</div> | <div align="center">╅</div> | <div align="center">╆</div> | <div align="center">╇</div> | <div align="center">╈</div> | <div align="center">╉</div> | <div align="center">╊</div> | <div align="center">╋</div> |
+|                             | <div align="center">╪</div> | <div align="center">╫</div> |                             | <div align="center">╬</div> | <div align="center">╳</div> | <div align="center">╬</div> |
+
+<!-- Total Characters Used out of 128: 76 -->
+
